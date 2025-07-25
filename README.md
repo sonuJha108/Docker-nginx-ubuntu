@@ -9,4 +9,3 @@
     -   Serving Own web app
 
 - Notes: make sure you can write the proper name of the docke file [Dockerfile]. 
-- 
